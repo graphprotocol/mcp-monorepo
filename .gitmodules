@@ -1,0 +1,3 @@
+[submodule "servers/mcp-subgraph"]
+	path = servers/mcp-subgraph
+	url = git@github.com:graphops/subgraph-mcp.git

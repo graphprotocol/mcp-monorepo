@@ -1,6 +1,11 @@
 # MCP Monorepo
 
-This monorepo contains submodules for the MCP server and client components related to The Graph protocol.
+This monorepo contains submodules for the MCP server and client components related to The Graph Protocol. 
+
+Please refer to the official documentation on how to configure and use the MCP servers: 
+- [Subgraph MCP](https://thegraph.com/docs/en/subgraphs/mcp/claude/)
+- [Token API MCP](https://thegraph.com/docs/en/token-api/mcp/claude/)
+- [Configuring Subgraph and Token API MCP together](https://thegraph.com/docs/en/resources/claude-mcp/)
 
 ## Submodules
 

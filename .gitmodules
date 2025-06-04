@@ -4,3 +4,4 @@
 [submodule "servers/mcp-token-api"]
 	path = servers/mcp-token-api
 	url = git@github.com:pinax-network/mcp-token-api.git
+	branch = main

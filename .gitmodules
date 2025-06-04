@@ -1,3 +1,6 @@
 [submodule "servers/mcp-subgraph"]
 	path = servers/mcp-subgraph
 	url = git@github.com:graphops/subgraph-mcp.git
+[submodule "servers/mcp-token-api"]
+	path = servers/mcp-token-api
+	url = git@github.com:pinax-network/mcp-token-api.git
